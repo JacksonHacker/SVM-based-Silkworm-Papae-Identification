@@ -1,0 +1,1 @@
+python ..\libsvm-3.21\tools\easy.py train.tr

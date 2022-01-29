@@ -1,0 +1,19 @@
+﻿  Function.cpp
+E:\CS\AI\CV\opencv3.2.0\build\include\opencv2/core/mat.hpp(2586): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+E:\CS\AI\CV\opencv3.2.0\build\include\opencv2/core/persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+E:\CS\AI\CV\opencv3.2.0\build\include\opencv2/core/utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+E:\CS\AI\CV\opencv3.2.0\build\include\opencv2/core/utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+E:\CS\AI\CV\opencv3.2.0\build\include\opencv2/imgproc.hpp(592): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+Function.cpp(67): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+Function.cpp(75): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+Function.cpp(78): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+Function.cpp(84): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+Function.cpp(164): warning C4800: “int”: 将值强制为布尔值“true”或“false”(性能警告)
+    正在创建库 C:\Users\acer\Desktop\WorkDll2.1\x64\Release\WorkDll.lib 和对象 C:\Users\acer\Desktop\WorkDll2.1\x64\Release\WorkDll.exp
+  正在生成代码
+  26 of 1034 functions ( 2.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    8 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  WorkDll.vcxproj -> C:\Users\acer\Desktop\WorkDll2.1\x64\Release\WorkDll.dll
+  WorkDll.vcxproj -> C:\Users\acer\Desktop\WorkDll2.1\x64\Release\WorkDll.pdb (Full PDB)
